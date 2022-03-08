@@ -7,8 +7,6 @@ I'm currently attending high school
 
 Math 1️⃣
 
-Physics
-
 Economics 🌎
 
 Rubik cubes
