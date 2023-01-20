@@ -20,7 +20,7 @@ Piano 🎹
 Programming ⌨️
 
 
-### What i know how to use
+### What I know how to use
 
 macOS
 
@@ -34,7 +34,7 @@ Xcode
 
 DaVinci Resolve
 
-#### What programing languages i use
+#### What programing languages I use
 
 Java
 
