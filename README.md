@@ -17,6 +17,8 @@ Sports 🥊
 
 Piano 🎹
 
+Programming ⌨️
+
 
 ### What i know how to use
 
