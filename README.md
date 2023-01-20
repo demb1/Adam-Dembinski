@@ -1,15 +1,15 @@
-# Hi there, i'm Adam 👋🏻
+# Hi there, I'm Adam 👋🏻
 
 I'm currently attending high school
 
 
-### What i like, am interested in, or am doing
+### What i like, I am interested in, or I am doing
 
 Math 1️⃣
 
 Economics 🌎
 
-Rubik cubes
+Rubik cubes 🚥
 
 Electronics 🖥
 
@@ -30,9 +30,9 @@ Blender
 
 Gimp
 
-Inkscape
-
 Xcode
+
+DaVinci Resolve
 
 #### What programing languages i use
 
