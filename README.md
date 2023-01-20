@@ -3,7 +3,7 @@
 I'm currently attending high school
 
 
-### What i like, I am interested in, or I am doing
+### What I like, I am interested in, or I am doing
 
 Math 1️⃣
 
